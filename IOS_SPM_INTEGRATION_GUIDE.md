@@ -10,6 +10,14 @@ This guide is self-contained for handover purposes. The narrower, app-facing
 version of Part B also exists inline in `NATIVE_INTEGRATION_GUIDE.md` (in
 the SDK repo) for teams who only need the integration step.
 
+## Download the prebuilt package
+
+**[Download `FlutterSDKPackage`](https://drive.google.com/drive/folders/1fr6UXBntGd7DmD7ll4kpkQKKnz5DeZli?usp=sharing)**
+— a ready-to-use, self-contained Swift Package (already built per Part A
+below). Unzip it and follow **Part B** to integrate it into your iOS app —
+you don't need to do the Part A build steps yourself unless you're handling
+a version bump.
+
 ---
 
 ## How this fits together
